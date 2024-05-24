@@ -26,7 +26,7 @@ ImageGallery3D is a website that creates a visually appealing, dynamic 3D galler
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/dthiernoo/ImageGallery3D.git
+    git clone https://github.com/dthiernoo/gsap-3d-gallery.git
     ```
 
 2. Navigate to the project directory:
